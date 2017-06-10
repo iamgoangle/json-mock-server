@@ -1,4 +1,4 @@
-## MY JSON MOCK SERVER
+## MY json-mock-server
 1..2..3 generates json mock server on your dev machine.
 
 ## Installation
