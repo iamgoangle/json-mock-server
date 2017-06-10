@@ -1,0 +1,14 @@
+{
+  "name": "json-mock-server",
+  "version": "1.0.0",
+  "description": "My personal JSON mock server is easy.",
+  "main": "index.js",
+  "scripts": {
+    "mock": "json-server ./src/db.js --config json-server.json"
+  },
+  "author": "Teerapong Singthong",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.10.1"
+  }
+}
