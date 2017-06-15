@@ -16,19 +16,8 @@
 2) Reference to https://github.com/marak/Faker.js/ for mocking data pattern
 
 ## Run
-`npm run mock`
+`npm run mock` or
+`node server.js`
 
-Result
-```
-  \{^_^}/ hi!
-
-  Loading ./src/db.js
-  Done
-
-  Resources
-  http://localhost:5000/customers
-  http://localhost:5000/products
-
-  Home
-  http://localhost:5000
-```
+## See result
+[https://json-mock-api.herokuapp.com/](https://json-mock-api.herokuapp.com/)
