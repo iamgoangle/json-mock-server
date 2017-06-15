@@ -4,11 +4,15 @@
   "description": "My personal JSON mock server is easy.",
   "main": "index.js",
   "scripts": {
-    "mock": "json-server ./src/db.js --config json-server.json"
+    "mock": "json-server ./src/db.js --config json-server.json",
+    "start": "node server.js"
   },
   "author": "Teerapong Singthong",
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.10.1"
+  },
+  "engines": {
+    "node": "7.10.0"
   }
 }
